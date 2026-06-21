@@ -12,7 +12,11 @@
 [![hf](https://img.shields.io/badge/%F0%9F%A4%97%20HUGGING%20FACE-Profile-FFD21E?style=for-the-badge&logoColor=black&labelColor=0a0e27)](https://huggingface.co/abdulhadi0239209)
 [![github](https://img.shields.io/badge/%E2%96%BA%20GITHUB-Follow-white?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0e27)](https://github.com/abdulhadi0-byte)
 
-<br/><br/>
+<br/>
+
+[![badges](badge-panel.svg)](https://github.com/abdulhadi0-byte)
+
+<br/>
 
 ![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode,aws,docker&theme=dark&perline=8)
 
