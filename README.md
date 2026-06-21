@@ -71,7 +71,7 @@ class AbdulHadi:
 |:--------|:------------|:------|:-----|
 | 🤖 **RAG Chatbot** | Upload docs & ask questions using AI | LangChain, FAISS, Streamlit | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/abdulhadi0239209/rag-chatbot) |
 | 📝 **Text Summarizer** | AI-powered summarization using BART | Transformers, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/abdulhadi0239209/TextSumirizer) |
-| 💬 **Sentiment Analyzer** | Real-time text sentiment analysis | HuggingFace, Streamlit | [![](https://img.shields.io/badge/Coming%20Soon-9d4edd?style=flat-square&labelColor=1a1040)]() |
+| 💬 **Sentiment Analyzer** | Real-time text sentiment analysis | HuggingFace, Streamlit | [![](https://img.sh.iieldso/badge/Coming%20Soon-9d4edd?style=flat-square&labelColor=1a1040)](https://abdulhadi0-byte.github.io/text-summarizer/) |
 | 📄 **Chat with PDF** | Ask questions from any PDF | LangChain, PyPDF2, Gradio | [![](https://img.shields.io/badge/Coming%20Soon-9d4edd?style=flat-square&labelColor=1a1040)]() |
 | 🌍 **Urdu Sentiment Analyzer** | Urdu language NLP | HuggingFace, Gradio | [![](https://img.shields.io/badge/Coming%20Soon-9d4edd?style=flat-square&labelColor=1a1040)]() |
 
