@@ -51,7 +51,7 @@ class AbdulHadi:
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:9d4edd,100:ff006e&height=2)
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Currently Building
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Currently Building
 
 <div align="center">
 
@@ -78,8 +78,7 @@ class AbdulHadi:
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:00ff88&height=2)
-
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZd176/giphy.gif" width="28"> Certifications & Achievements
+ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZd176/giphy.gif" width="28"> Certifications & Achievements
 
 <div align="center">
 
@@ -92,7 +91,7 @@ class AbdulHadi:
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:9d4edd,100:00d9ff&height=2)
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> GitHub Stats
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
 
@@ -123,7 +122,7 @@ class AbdulHadi:
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,100:9d4edd&height=2)
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> Quote of the Day
+ <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> Quote of the Day
 
 <div align="center">
 
@@ -133,7 +132,7 @@ class AbdulHadi:
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:9d4edd,100:ff006e&height=2)
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Connect
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Connect
 
 <div align="center">
 
