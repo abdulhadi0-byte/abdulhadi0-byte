@@ -31,7 +31,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:9d4edd&height=2)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
 ```python
 class AbdulHadi:
