@@ -63,7 +63,7 @@ class AbdulHadi:
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,100:00d9ff&height=2)
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Featured AI Projects
+<img src="/mabdullahab614-alt/mabdullahab614-alt/raw/main/cert-panel.svg" alt="certs" style="max-width: 100%;">
 
 <div align="center">
 
